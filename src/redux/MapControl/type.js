@@ -1,0 +1,7 @@
+export const FIND_PLACE = 'FIND_PLACE'
+export const ZOOM_MAP = 'ZOOM_MAP'
+export const UPDATE_LEVEL = 'UPDATE_LEVEL'
+
+export const SET_RADIUS = 'SET_RADIUS'
+export const DISPLAY_NEW_FACILITY = 'DISPLAY_NEW_FACILITY'
+export const SET_LIMIT_RADIUS = 'SET_LIMIT_RADIUS'
