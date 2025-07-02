@@ -2,7 +2,7 @@
 const axios = require('axios')
 const ApiDefault = {
   url: "maps.googleapis.com/maps/api/geocode/json?address=",
-  key: "AIzaSyDU1FjQuW-GwjIhVjMgSbdXl79hmbPOxtY"
+  key: "----" //비공개처리
 };
 
 const getCoords = async function(place){
