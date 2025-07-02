@@ -4,7 +4,7 @@ import 'firebase/firestore';
 
 // Initialize Firebase
 const firebaseConfig = {
-    apiKey: "AIzaSyCVFLf6YKR1hQhruee6-34awbkmt4AE8NU",
+    apiKey: "---",    //비공개처리
     authDomain: "bicyclemap-12f8a.firebaseapp.com",
     databaseURL: "https://bicyclemap-12f8a-default-rtdb.firebaseio.com",
     projectId: "bicyclemap-12f8a",
